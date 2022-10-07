@@ -1,4 +1,4 @@
-# mariadb:10.5.9-focal
+# mariadb:10.6.0-focal
 ARG FROM=docker.io/mariadb@sha256:7e244fae615587335176db07e88b43eee5e4762f35306e17c13c68125d93b9bf
 FROM ${FROM}
 
